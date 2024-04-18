@@ -86,7 +86,7 @@ def inpaint_Func():
     raw_out = raw_out.clamp(0.0, 1.0)
     out = mask * inp + (1 - mask) * raw_out
     out1 = TF.to_pil_image(out.cpu().detach()[0])
-    out1.save("out1.jpg")
+    out1.save("intermediate-output.jpg")
 
     plt.imshow(org.cpu().detach().permute(1,2,0))
     plt.show()
