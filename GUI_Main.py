@@ -96,9 +96,9 @@ class MainWindow(QMainWindow):
           run = False
     if event == cv2.EVENT_MOUSEMOVE:
       if run == True:
-                    cv2.circle(self.img, (x,y), 5 , (0,0,0), thickness = cv2.FILLED)
+                    cv2.circle(self.img, (x,y), 7, (0,0,0), thickness = cv2.FILLED)
                     cv2.imshow('Masked Image',self.img)
-                    cv2.circle(self.blank, (x,y), 5 , (0,0,0), thickness = cv2.FILLED)
+                    cv2.circle(self.blank, (x,y), 7 , (0,0,0), thickness = cv2.FILLED)
                     #cv2.imshow('Binary Mask',self.blank)
 
 
