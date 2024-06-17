@@ -1,5 +1,5 @@
 # Image-Reprocessing-of-Occluded-Object
-This project is done as the minor project of our college tasks. 
+This project work is done as the Minor project of the Campus. 
 Image reprocessing of occluded object is the project related to the filed of image processing and computer vision. 
 The presence of occlusions in images often hampers their interpretability and utility in var-
 ious applications. In this project, we aim to address the challenge of image reprocessing for
