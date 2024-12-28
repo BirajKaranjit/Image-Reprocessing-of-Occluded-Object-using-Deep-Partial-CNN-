@@ -36,9 +36,13 @@ This project leverages **Deep Learning-based Inpainting Techniques** to reconstr
 - **Mask Representation**:  
   - **Black Pixels (0)**: Occluded regions.  
   - **White Pixels (1)**: Valid regions.  
-![Screenshot 2024-12-28 141258_5_11zon](https://github.com/user-attachments/assets/115336b8-0a71-4bfc-bd7e-346b846c305c)
 
-![Screenshot 2024-12-28 141307_6_11zon](https://github.com/user-attachments/assets/69ef70ab-3e52-4388-842d-5c20506d1e81)
+<img src="![Screenshot 2024-12-28 141258_5_11zon](https://github.com/user-attachments/assets/115336b8-0a71-4bfc-bd7e-346b846c305c)" alt="Sample dataset instance and corresponding binary mask" width="400"/>
+
+<img src="![Screenshot 2024-12-28 141307_6_11zon](https://github.com/user-attachments/assets/69ef70ab-3e52-4388-842d-5c20506d1e81)
+" alt="Sample dataset instance and corresponding binary mask" width="400"/>
+
+
 
 
 ## **⚙️ Training Details**
@@ -62,14 +66,23 @@ This project leverages **Deep Learning-based Inpainting Techniques** to reconstr
 ### **✨ Results**
 
 Training and validation loss decreased consistently across 55 epochs, indicating effective learning. The model excels at reconstructing complex textures and occlusions.
-![Screenshot 2024-12-28 140823_4_11zon](https://github.com/user-attachments/assets/69fa2673-888d-4cde-988c-499dffd66400)
+<img src="![Screenshot 2024-12-28 140823_4_11zon](https://github.com/user-attachments/assets/69fa2673-888d-4cde-988c-499dffd66400)" alt="Training and Validation Loss Curve" width="400"/>
 
-![Screenshot 2024-12-28 140438_1_11zon](https://github.com/user-attachments/assets/0db31e5d-5e54-442e-8700-21a749d95560)
-![Screenshot 2024-12-28 140536_3_11zon](https://github.com/user-attachments/assets/a015405d-834f-4c05-9f73-021036fb364b)
-![Screenshot 2024-12-28 140514_2_11zon](https://github.com/user-attachments/assets/2d52aa3f-6f5e-41e7-abd3-a758af3231e1)
 
+
+
+---
 
 ### **📷 Sample Restorations**
+# **Sample Image**
+This is an example of a resized image in GitHub README:
+
+<img src="![Screenshot 2024-12-28 140438_1_11zon](https://github.com/user-attachments/assets/0db31e5d-5e54-442e-8700-21a749d95560)" alt="Before and After Restoration" width="400"/>
+<img src="![Screenshot 2024-12-28 140536_3_11zon](https://github.com/user-attachments/assets/a015405d-834f-4c05-9f73-021036fb364b)" alt="Before and After Restoration" width="400"/>
+<img src="![Screenshot 2024-12-28 140514_2_11zon](https://github.com/user-attachments/assets/2d52aa3f-6f5e-41e7-abd3-a758af3231e1)" alt="Before and After Restoration" width="400"/>
+
+
+
 
 
 
