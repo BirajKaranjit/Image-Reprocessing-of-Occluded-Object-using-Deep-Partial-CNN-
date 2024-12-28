@@ -39,9 +39,7 @@ This project leverages **Deep Learning-based Inpainting Techniques** to reconstr
 <center>
 <img src="https://github.com/user-attachments/assets/115336b8-0a71-4bfc-bd7e-346b846c305c" alt="Sample dataset instance and corresponding binary mask" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/69ef70ab-3e52-4388-842d-5c20506d1e81
-" alt="Sample dataset instance and corresponding binary mask" width="400"/>
-
+<img src="https://github.com/user-attachments/assets/69ef70ab-3e52-4388-842d-5c20506d1e81" alt="Sample dataset instance and corresponding binary mask" width="400"/>
 </center>
 
 
