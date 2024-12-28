@@ -1,8 +1,3 @@
-# Image-Reprocessing-of-Occluded-Object
-Here’s a visually appealing version of the project description formatted for GitHub:
-
----
-
 # **Image Reprocessing of Occluded Objects**
 
 This project leverages **Deep Learning-based Inpainting Techniques** to reconstruct occluded regions in images, offering realistic and structurally coherent restorations. The solution is built on a **U-Net Architecture** enhanced with **Partial Convolution Layers** to ensure efficient and accurate feature extraction.
