@@ -36,9 +36,9 @@ This project leverages **Deep Learning-based Inpainting Techniques** to reconstr
 - **Mask Representation**:  
   - **Black Pixels (0)**: Occluded regions.  
   - **White Pixels (1)**: Valid regions.  
+![Screenshot 2024-12-28 141258_5_11zon](https://github.com/user-attachments/assets/115336b8-0a71-4bfc-bd7e-346b846c305c)
 
----![Screenshot 2024-12-28 141258](https://github.com/user-attachments/assets/c33a7e51-90c9-4149-a515-a4adc80d1d61)
-![Screenshot 2024-12-28 141307](https://github.com/user-attachments/assets/6fcb03dc-d44e-4b31-9e30-9445baa4c996)
+![Screenshot 2024-12-28 141307_6_11zon](https://github.com/user-attachments/assets/69ef70ab-3e52-4388-842d-5c20506d1e81)
 
 
 ## **⚙️ Training Details**
@@ -62,13 +62,14 @@ This project leverages **Deep Learning-based Inpainting Techniques** to reconstr
 ### **✨ Results**
 
 Training and validation loss decreased consistently across 55 epochs, indicating effective learning. The model excels at reconstructing complex textures and occlusions.
-![Screenshot 2024-12-28 140823](https://github.com/user-attachments/assets/99124345-a389-436c-9966-a219ae756298)
+![Screenshot 2024-12-28 140823_4_11zon](https://github.com/user-attachments/assets/69fa2673-888d-4cde-988c-499dffd66400)
 
----
+![Screenshot 2024-12-28 140438_1_11zon](https://github.com/user-attachments/assets/0db31e5d-5e54-442e-8700-21a749d95560)
+![Screenshot 2024-12-28 140536_3_11zon](https://github.com/user-attachments/assets/a015405d-834f-4c05-9f73-021036fb364b)
+![Screenshot 2024-12-28 140514_2_11zon](https://github.com/user-attachments/assets/2d52aa3f-6f5e-41e7-abd3-a758af3231e1)
+
 
 ### **📷 Sample Restorations**
 
-![Screenshot 2024-12-28 140438](https://github.com/user-attachments/assets/83c884a7-561e-4cf6-9469-f19818461013)
-![Screenshot 2024-12-28 140536](https://github.com/user-attachments/assets/36738265-df14-4b01-b8a8-212e85382c1b)
-![Screenshot 2024-12-28 140514](https://github.com/user-attachments/assets/25c2e578-637f-41a3-909c-ab9942d13fda)
+
 
